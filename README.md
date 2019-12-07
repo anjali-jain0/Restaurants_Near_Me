@@ -16,7 +16,7 @@ This is a web app that helps you to search for and book available restaurant sea
 
 
 ## Setup/Installation Requirements
-* Download or clone git repo at 
+* Download or clone git repo at https://github.com/anjali-jain0/Restaurants_Near_Me.git
 * Run npm install
 * Run node index.js
 * Index.js should open up on your default browser, if not, go to localhost:8080
